@@ -1,0 +1,16 @@
+[
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "publisher": "Scribner",
+    "publishedDate": "1925",
+    "isbn": "9780743273565"
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "publisher": "J.B. Lippincott & Co.",
+    "publishedDate": "1960",
+    "isbn": "9780060935467"
+  }
+]
